@@ -16,3 +16,5 @@ When I add a program, I add a row here.
 ## Notes
 
 This is a learning repo, not production code. Expect experiments, half-finished ideas, and code that changes as I learn better approaches.
+
+All code here is written by hand. AI was only used to write commit messages.
